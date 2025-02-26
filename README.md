@@ -30,11 +30,7 @@ ZBF2    LMP9    0.028
    ```sh
    g++ -o graph_clustering graph_clustering.cpp
    ```
-2. **Run the Clustering Algorithm**
-   ```sh
-   ./graph_clustering graph.txt
-   ```
-3. **Run the Python UI**
+2. **Run the Python UI**
    ```sh
    python ui.py
    ```

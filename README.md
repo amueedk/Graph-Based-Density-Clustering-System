@@ -1,7 +1,7 @@
 # Graph-Based Density Clustering System
 
 ## Overview
-This project was developed as part of the **Data Structures and Algorithms (DSA) course in Object-Oriented Programming (OOP)**. It implements a density-based clustering approach to identify groups of connected nodes in a graph, based on edge weights. The system processes graph data, applies clustering techniques, and provides statistical insights and cluster information.
+This project was developed as part of the **Data Structures and Algorithms (DSA) course**. It implements a density-based clustering approach to identify groups of connected nodes in a graph, based on edge weights. The system processes graph data, applies clustering techniques, and provides statistical insights and cluster information.
 
 ## Features
 - **Graph Clustering Algorithm**: Uses density-based clustering to group connected nodes based on predefined thresholds.
